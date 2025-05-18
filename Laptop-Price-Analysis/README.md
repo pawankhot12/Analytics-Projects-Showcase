@@ -76,4 +76,4 @@ The project aims to **demystify laptop pricing** by analyzing the impact of spec
 
 ---
 
-*For questions or collaboration, please contact: [your-email@example.com]*
+*For questions or collaboration, please contact: pawan.khot1272004@gmail.com
