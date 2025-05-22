@@ -96,7 +96,7 @@ Species classes:
 
 1 Clone this repo:
    ```bash
-   git clone https://github.com/pawankhot12/Analytics-Projects-Showcase/tree/main/Iris_project
+    https://github.com/pawankhot12/Analytics-Projects-Showcase/tree/main/Iris_project
 ````
 
 
@@ -128,7 +128,8 @@ Species classes:
 
 Feel free to connect or reach out if you have suggestions or feedback!
 **\[ PAWAN KHOT ]**
- Email: pawan.khot1272004@gmail.com
+ Email: pawan.khot1272004@gmail.com 
+ 
  LinkedIn: https://www.linkedin.com/in/pawan-khot-5155b02b5/
 
 ---
