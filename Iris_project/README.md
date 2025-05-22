@@ -93,24 +93,28 @@ Species classes:
 
 ##  How to Run This Project
 
-1. Clone this repo:
+
+1 Clone this repo:
    ```bash
    git clone https://github.com/pawankhot12/Analytics-Projects-Showcase/tree/main/Iris_project
 ````
 
-2. Install the required libraries:
+
+2 Install the required libraries:
 
    ```bash
    pip install -r requirements.txt
    ```
 
-3. Run the Jupyter Notebook:
+ 3 Run the Jupyter Notebook:
 
    ```bash
    jupyter notebook iris_classification.ipynb
    ```
 
 ---
+
+
 
 ## Future Improvements
 
@@ -123,7 +127,7 @@ Species classes:
 ##  Contact
 
 Feel free to connect or reach out if you have suggestions or feedback!
-**\[Your Name]**
+**\[ PAWAN KHOT ]**
  Email: pawan.khot1272004@gmail.com
  LinkedIn: https://www.linkedin.com/in/pawan-khot-5155b02b5/
 
